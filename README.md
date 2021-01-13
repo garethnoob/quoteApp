@@ -1,0 +1,1 @@
+quoteApp first addition
